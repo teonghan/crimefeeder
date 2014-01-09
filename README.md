@@ -2,7 +2,7 @@ crimefeeder
 ===========
 Collections of Python 2 &amp; 3 script to mine crime news and inject into mapping.fbb.utm.my/crimefeeds/v2
 
-Acknowledgments
+Acknowledgements
 ===============
 - InvisibleMan in Python, http://pastebin.com/zYPWHnc6
 - Eliot (SaltyCrane), http://www.saltycrane.com/blog/2009/11/trying-out-retry-decorator-python/
