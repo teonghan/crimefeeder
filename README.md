@@ -2,6 +2,16 @@ crimefeeder
 ===========
 Collections of Python 2 &amp; 3 script to mine crime news and inject into mapping.fbb.utm.my/crimefeeds/v2
 
+Acknowledgments
+===============
+- InvisibleMan in Python, http://pastebin.com/zYPWHnc6
+- Eliot (SaltyCrane), http://www.saltycrane.com/blog/2009/11/trying-out-retry-decorator-python/
+- onyfish, https://gist.github.com/322906/90dea659c04570757cccf0ce1e6d26c9d06f9283
+- Tim McNamara, http://timmcnamara.co.nz/post/2650550090/extracting-names-with-6-lines-of-python-code
+- Jim Plush, http://jimplush.com/blog/article/172
+- Jacob Perkins, http://streamhacker.com/
+- Anyone who I might have forgotten
+
 Requirements
 ============
 - Python 2 with NLTK, BeautifulSoup4, unicodecsv
