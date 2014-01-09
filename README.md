@@ -1,6 +1,6 @@
 crimefeeder
 ===========
-Collections of Python 2 &amp; 3 script to mine crime news and inject into mapping.fbb.utm.my/crimefeeds/v2
+Collections of Python 2 &amp; 3 script to mine crime news and inject into http://mapping.fbb.utm.my/crimefeeds/v2
 
 Acknowledgements
 ===============
@@ -46,3 +46,4 @@ Notes
 =====
 - It's messy, very messy with some unused functions, non-pythonic approach to do some stuff and non-dynamic (you will have to change the code if you wish to mine from other sites, for example)
 - I includes lots of codes from other people and I am sorry if I forget to acknowledge you in the code. I will try to do so in future commits. Thanks to all of you.
+- Accuracy of the crime news detection and places detection is not that good. The training dataset is too small (< 200 for each category). I am considering to switch to Stanford NLP and in the process of increasing the training datasets.
